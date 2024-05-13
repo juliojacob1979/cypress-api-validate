@@ -1,0 +1,41 @@
+{
+  "company": {
+    "bank_identifier": 1,
+    "bank_branch": 12345,
+    "bank_branch_identifier": "5",
+    "bank_account": 987654321012,
+    "bank_account_identifier": "7",
+    "bank_agreement": "98765432109876543210",
+    "type": 2,
+    "registered_number": "44802644000179",
+    "name": "Empresa ESB EDI Automacao LTDA"
+  },
+  "invoices": [
+    {
+      "invoice": {
+        "transaction_code": 1,
+        "title_due_date": "2024-02-17",
+        "title_amount": 1234567890123.12,
+        "title_issue_date": "2024-01-18",
+        "title_type": "12",
+        "acceptance": "N",
+        "bank_wallet_type": 1,
+        "identifier": "9876543210987654321012345",
+        "bank_slip_delivery_id": "1",
+        "late_payment_interest_code": 3,
+        "bank_slip_emission_id": 1,
+        "demanding_bank_branch": 98715
+      },
+      "payer": {
+        "registration_type": 2,
+        "registration_number": "84438011000148",
+        "name": "PAYER NAME EMPRESA TECNOLOGIA SA UNIDATTT",
+        "address": "PAYER ADDRESS RUA FORMOSA 145 ESQ R T",
+        "neighborhood": "PAYER NEIGHB JP",
+        "zip_code": 10100123,
+        "city": "PAY CIT S PAULO",
+        "state": "SP"
+      }
+    }
+  ]
+}

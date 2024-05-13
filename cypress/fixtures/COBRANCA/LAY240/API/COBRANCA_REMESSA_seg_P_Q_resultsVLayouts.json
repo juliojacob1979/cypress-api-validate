@@ -1,0 +1,2761 @@
+{
+	"results_CNAB_COB_BB_240_REM_VLayouts": {
+		"Line: 1 - HARQ": [
+			{
+				"code": "HARQ0",
+				"description": "Código do Banco na Compensação",
+				"initial_position": 0,
+				"length": 3,
+				"value": "001"
+			},
+			{
+				"code": "HARQ1",
+				"description": "Lote de Serviço",
+				"initial_position": 3,
+				"length": 4,
+				"value": "0000"
+			},
+			{
+				"code": "HARQ2",
+				"description": "Tipo de Registro",
+				"initial_position": 7,
+				"length": 1,
+				"value": "0"
+			},
+			{
+				"code": "HARQ3",
+				"description": "Uso Exclusivo FEBRABAN / CNAB",
+				"initial_position": 8,
+				"length": 9,
+				"value": ""
+			},
+			{
+				"code": "HARQ4",
+				"description": "Tipo de Inscrição da Empresa",
+				"initial_position": 17,
+				"length": 1,
+				"value": "2"
+			},
+			{
+				"code": "HARQ5",
+				"description": "Número de Inscrição da Empresa",
+				"initial_position": 18,
+				"length": 14,
+				"value": "44802644000179"
+			},
+			{
+				"code": "HARQ6",
+				"description": "BB1 Nùmero do convênio de cobrança BB",
+				"initial_position": 32,
+				"length": 9,
+				"value": "987654321"
+			},
+			{
+				"code": "HARQ7",
+				"description": "BB2 Cobrança Cedente BB",
+				"initial_position": 41,
+				"length": 4,
+				"value": "0987"
+			},
+			{
+				"code": "HARQ8",
+				"description": "BB3 Número da carteira de cobrança BB",
+				"initial_position": 45,
+				"length": 2,
+				"value": "65"
+			},
+			{
+				"code": "HARQ9",
+				"description": "BB4 Número da variação da carteira de cobrança BB",
+				"initial_position": 47,
+				"length": 3,
+				"value": "432"
+			},
+			{
+				"code": "HARQ10",
+				"description": "BB5 Campo reservado BB",
+				"initial_position": 50,
+				"length": 2,
+				"value": "10"
+			},
+			{
+				"code": "HARQ11",
+				"description": "Agência Mantenedora da Conta",
+				"initial_position": 52,
+				"length": 5,
+				"value": "12345"
+			},
+			{
+				"code": "HARQ12",
+				"description": "Dígito Verificador da Agência",
+				"initial_position": 57,
+				"length": 1,
+				"value": "5"
+			},
+			{
+				"code": "HARQ13",
+				"description": "Número da Conta Corrente",
+				"initial_position": 58,
+				"length": 12,
+				"value": "987654321012"
+			},
+			{
+				"code": "HARQ14",
+				"description": "Dígito Verificador da Conta",
+				"initial_position": 70,
+				"length": 1,
+				"value": "7"
+			},
+			{
+				"code": "HARQ15",
+				"description": "Dígito Verificador da Ag/Conta",
+				"initial_position": 71,
+				"length": 1,
+				"value": ""
+			},
+			{
+				"code": "HARQ16",
+				"description": "Nome da Empresa",
+				"initial_position": 72,
+				"length": 30,
+				"value": "EMPRESA ESB EDI AUTOMACAO LTDA"
+			},
+			{
+				"code": "HARQ17",
+				"description": "Nome do Banco",
+				"initial_position": 102,
+				"length": 30,
+				"value": "BANCO DO BRASIL S.A"
+			},
+			{
+				"code": "HARQ18",
+				"description": "Uso Exclusivo FEBRABAN / CNAB",
+				"initial_position": 132,
+				"length": 10,
+				"value": ""
+			},
+			{
+				"code": "HARQ19",
+				"description": "Código Remessa / Retorno",
+				"initial_position": 142,
+				"length": 1,
+				"value": "1"
+			},
+			{
+				"code": "HARQ20",
+				"description": "Data de Geração do Arquivo",
+				"initial_position": 143,
+				"length": 8,
+				"value": "DDMMAAAA"
+			},
+			{
+				"code": "HARQ21",
+				"description": "Hora de Geração do Arquivo",
+				"initial_position": 151,
+				"length": 6,
+				"value": "HHMMSS"
+			},
+			{
+				"code": "HARQ22",
+				"description": "Número Seqüencial do Arquivo",
+				"initial_position": 157,
+				"length": 6,
+				"value": "000001"
+			},
+			{
+				"code": "HARQ23",
+				"description": "Nº da Versão do Layout do Arquivo",
+				"initial_position": 163,
+				"length": 3,
+				"value": "103"
+			},
+			{
+				"code": "HARQ24",
+				"description": "Densidade de Gravação do Arquivo",
+				"initial_position": 166,
+				"length": 5,
+				"value": "00000"
+			},
+			{
+				"code": "HARQ25",
+				"description": "Para Uso Reservado do Banco",
+				"initial_position": 171,
+				"length": 20,
+				"value": ""
+			},
+			{
+				"code": "HARQ26",
+				"description": "Para Uso Reservado da Empresa",
+				"initial_position": 191,
+				"length": 20,
+				"value": ""
+			},
+			{
+				"code": "HARQ27",
+				"description": "Uso Exclusivo FEBRABAN / CNAB",
+				"initial_position": 211,
+				"length": 29,
+				"value": ""
+			}
+		],
+		"Line: 2 - HLOT": [
+			{
+				"code": "HLOT0",
+				"description": "Código do Banco na Compensação",
+				"initial_position": 0,
+				"length": 3,
+				"value": "001"
+			},
+			{
+				"code": "HLOT1",
+				"description": "Lote de Serviço",
+				"initial_position": 3,
+				"length": 4,
+				"value": "0001"
+			},
+			{
+				"code": "HLOT2",
+				"description": "Tipo de Registro",
+				"initial_position": 7,
+				"length": 1,
+				"value": "1"
+			},
+			{
+				"code": "HLOT3",
+				"description": "Tipo de Operação",
+				"initial_position": 8,
+				"length": 1,
+				"value": "R"
+			},
+			{
+				"code": "HLOT4",
+				"description": "Tipo de Serviço",
+				"initial_position": 9,
+				"length": 2,
+				"value": "01"
+			},
+			{
+				"code": "HLOT5",
+				"description": "Uso Exclusivo FEBRABAN/CNAB",
+				"initial_position": 11,
+				"length": 2,
+				"value": ""
+			},
+			{
+				"code": "HLOT6",
+				"description": "Nº da Versão do Layout do Lote",
+				"initial_position": 13,
+				"length": 3,
+				"value": "060"
+			},
+			{
+				"code": "HLOT7",
+				"description": "Uso Exclusivo FEBRABAN/CNAB",
+				"initial_position": 16,
+				"length": 1,
+				"value": ""
+			},
+			{
+				"code": "HLOT8",
+				"description": "Tipo de Inscrição da Empresa",
+				"initial_position": 17,
+				"length": 1,
+				"value": "2"
+			},
+			{
+				"code": "HLOT9",
+				"description": "Nº de Inscrição da Empresa",
+				"initial_position": 18,
+				"length": 15,
+				"value": "044802644000179"
+			},
+			{
+				"code": "HLOT10",
+				"description": "BB1 Nùmero do convênio de cobrança BB",
+				"initial_position": 33,
+				"length": 9,
+				"value": "987654321"
+			},
+			{
+				"code": "HLOT11",
+				"description": "BB2 Cobrança Cedente BB",
+				"initial_position": 42,
+				"length": 4,
+				"value": "0987"
+			},
+			{
+				"code": "HLOT12",
+				"description": "BB3 Número da carteira de cobrança BB",
+				"initial_position": 46,
+				"length": 2,
+				"value": "65"
+			},
+			{
+				"code": "HLOT13",
+				"description": "BB4 Número da variação da carteira de cobrança BB",
+				"initial_position": 48,
+				"length": 3,
+				"value": "432"
+			},
+			{
+				"code": "HLOT14",
+				"description": "BB5 Campo que identifica remessa de testes",
+				"initial_position": 51,
+				"length": 2,
+				"value": "10"
+			},
+			{
+				"code": "HLOT15",
+				"description": "Agência Mantenedora da Conta",
+				"initial_position": 53,
+				"length": 5,
+				"value": "12345"
+			},
+			{
+				"code": "HLOT16",
+				"description": "Dígito Verificador da Conta",
+				"initial_position": 58,
+				"length": 1,
+				"value": "5"
+			},
+			{
+				"code": "HLOT17",
+				"description": "Número da Conta Corrente",
+				"initial_position": 59,
+				"length": 12,
+				"value": "987654321012"
+			},
+			{
+				"code": "HLOT18",
+				"description": "Dígito Verificador da Conta",
+				"initial_position": 71,
+				"length": 1,
+				"value": "7"
+			},
+			{
+				"code": "HLOT19",
+				"description": "Dígito Verificador da Ag/Conta",
+				"initial_position": 72,
+				"length": 1,
+				"value": ""
+			},
+			{
+				"code": "HLOT20",
+				"description": "Nome da Empresa",
+				"initial_position": 73,
+				"length": 30,
+				"value": "EMPRESA ESB EDI AUTOMACAO LTDA"
+			},
+			{
+				"code": "HLOT21",
+				"description": "Mensagem 1",
+				"initial_position": 103,
+				"length": 40,
+				"value": ""
+			},
+			{
+				"code": "HLOT22",
+				"description": "Mensagem 2",
+				"initial_position": 143,
+				"length": 40,
+				"value": ""
+			},
+			{
+				"code": "HLOT23",
+				"description": "Número Remessa/Retorno",
+				"initial_position": 183,
+				"length": 8,
+				"value": "00000000"
+			},
+			{
+				"code": "HLOT24",
+				"description": "Data de Gravação Remessa/Retorno",
+				"initial_position": 191,
+				"length": 8,
+				"value": "00000000"
+			},
+			{
+				"code": "HLOT25",
+				"description": "Data do Crédito",
+				"initial_position": 199,
+				"length": 8,
+				"value": "00000000"
+			},
+			{
+				"code": "HLOT26",
+				"description": "Uso Exclusivo FEBRABAN/CNAB",
+				"initial_position": 207,
+				"length": 33,
+				"value": ""
+			}
+		],
+		"Line: 3 - SEGP": [
+			{
+				"code": "SEGP0",
+				"description": "Código do Banco na Compensação",
+				"initial_position": 0,
+				"length": 3,
+				"value": "001"
+			},
+			{
+				"code": "SEGP1",
+				"description": "Lote Lote de Serviço",
+				"initial_position": 3,
+				"length": 4,
+				"value": "0001"
+			},
+			{
+				"code": "SEGP2",
+				"description": "Tipo de Registro",
+				"initial_position": 7,
+				"length": 1,
+				"value": "3"
+			},
+			{
+				"code": "SEGP3",
+				"description": "Nº Sequencial do Registro no Lote",
+				"initial_position": 8,
+				"length": 5,
+				"value": "00001"
+			},
+			{
+				"code": "SEGP4",
+				"description": "Cód. Segmento do Registro Detalhe",
+				"initial_position": 13,
+				"length": 1,
+				"value": "P"
+			},
+			{
+				"code": "SEGP5",
+				"description": "Uso Exclusivo FEBRABAN/CNAB",
+				"initial_position": 14,
+				"length": 1,
+				"value": ""
+			},
+			{
+				"code": "SEGP6",
+				"description": "Código de Movimento Remessa",
+				"initial_position": 15,
+				"length": 2,
+				"value": "01"
+			},
+			{
+				"code": "SEGP7",
+				"description": "Agência Mantenedora da Conta",
+				"initial_position": 17,
+				"length": 5,
+				"value": "12345"
+			},
+			{
+				"code": "SEGP8",
+				"description": "Dígito Verificador da Agência",
+				"initial_position": 22,
+				"length": 1,
+				"value": "5"
+			},
+			{
+				"code": "SEGP9",
+				"description": "Número da Conta Corrente",
+				"initial_position": 23,
+				"length": 12,
+				"value": "987654321012"
+			},
+			{
+				"code": "SEGP10",
+				"description": "Dígito Verificador da Conta",
+				"initial_position": 35,
+				"length": 1,
+				"value": "7"
+			},
+			{
+				"code": "SEGP11",
+				"description": "Dígito Verificador da Ag/Conta",
+				"initial_position": 36,
+				"length": 1,
+				"value": ""
+			},
+			{
+				"code": "SEGP12",
+				"description": "Identificação do Título no Banco",
+				"initial_position": 37,
+				"length": 20,
+				"value": ""
+			},
+			{
+				"code": "SEGP13",
+				"description": "Código da Carteira",
+				"initial_position": 57,
+				"length": 1,
+				"value": "1"
+			},
+			{
+				"code": "SEGP14",
+				"description": "Forma de Cadastr. do Título no Banco",
+				"initial_position": 58,
+				"length": 1,
+				"value": "0"
+			},
+			{
+				"code": "SEGP15",
+				"description": "Tipo de Documento",
+				"initial_position": 59,
+				"length": 1,
+				"value": ""
+			},
+			{
+				"code": "SEGP16",
+				"description": "Identificação da Emissão do Bloqueto",
+				"initial_position": 60,
+				"length": 1,
+				"value": "1"
+			},
+			{
+				"code": "SEGP17",
+				"description": "Identificação da Distribuição",
+				"initial_position": 61,
+				"length": 1,
+				"value": "1"
+			},
+			{
+				"code": "SEGP18",
+				"description": "Número do Documento de Cobrança",
+				"initial_position": 62,
+				"length": 15,
+				"value": ""
+			},
+			{
+				"code": "SEGP19",
+				"description": "Data de Vencimento do Título",
+				"initial_position": 77,
+				"length": 8,
+				"value": "DDMMAAAA"
+			},
+			{
+				"code": "SEGP20",
+				"description": "Valor Nominal do Título",
+				"initial_position": 85,
+				"length": 15,
+				"value": "123456789012312"
+			},
+			{
+				"code": "SEGP21",
+				"description": "Agência Encarregada da Cobrança",
+				"initial_position": 100,
+				"length": 5,
+				"value": "98715"
+			},
+			{
+				"code": "SEGP22",
+				"description": "Dígito Verificador da Agência",
+				"initial_position": 105,
+				"length": 1,
+				"value": ""
+			},
+			{
+				"code": "SEGP23",
+				"description": "Espécie do Título",
+				"initial_position": 106,
+				"length": 2,
+				"value": "12"
+			},
+			{
+				"code": "SEGP24",
+				"description": "Identific. de Título Aceito/Não Aceito ",
+				"initial_position": 108,
+				"length": 1,
+				"value": "N"
+			},
+			{
+				"code": "SEGP25",
+				"description": "Data da Emissão do Título ",
+				"initial_position": 109,
+				"length": 8,
+				"value": "DDMMAAAA"
+			},
+			{
+				"code": "SEGP26",
+				"description": "Código do Juros de Mora",
+				"initial_position": 117,
+				"length": 1,
+				"value": "3"
+			},
+			{
+				"code": "SEGP27",
+				"description": "Data do Juros de Mora",
+				"initial_position": 118,
+				"length": 8,
+				"value": "00000000"
+			},
+			{
+				"code": "SEGP28",
+				"description": "Juros de Mora por Dia/Taxa",
+				"initial_position": 126,
+				"length": 15,
+				"value": "000000000000000"
+			},
+			{
+				"code": "SEGP29",
+				"description": "Código do Desconto 1",
+				"initial_position": 141,
+				"length": 1,
+				"value": "0"
+			},
+			{
+				"code": "SEGP30",
+				"description": "Data do Desconto 1",
+				"initial_position": 142,
+				"length": 8,
+				"value": "00000000"
+			},
+			{
+				"code": "SEGP31",
+				"description": "Desconto 1 Valor/Percentual a ser Concedido",
+				"initial_position": 150,
+				"length": 15,
+				"value": "000000000000000"
+			},
+			{
+				"code": "SEGP32",
+				"description": "Valor do IOF a ser Recolhido",
+				"initial_position": 165,
+				"length": 15,
+				"value": "000000000000000"
+			},
+			{
+				"code": "SEGP33",
+				"description": "Valor do Abatimento",
+				"initial_position": 180,
+				"length": 15,
+				"value": "000000000000000"
+			},
+			{
+				"code": "SEGP34",
+				"description": "Identificação do Título na Empresa",
+				"initial_position": 195,
+				"length": 25,
+				"value": "9876543210987654321012345"
+			},
+			{
+				"code": "SEGP35",
+				"description": "Código para Protesto",
+				"initial_position": 220,
+				"length": 1,
+				"value": "0"
+			},
+			{
+				"code": "SEGP36",
+				"description": "Número de Dias para Protesto ",
+				"initial_position": 221,
+				"length": 2,
+				"value": "00"
+			},
+			{
+				"code": "SEGP37",
+				"description": "Código para Baixa/Devolução",
+				"initial_position": 223,
+				"length": 1,
+				"value": "0"
+			},
+			{
+				"code": "SEGP38",
+				"description": "Número de Dias para Baixa/Devolução",
+				"initial_position": 224,
+				"length": 3,
+				"value": ""
+			},
+			{
+				"code": "SEGP39",
+				"description": "Código da Moeda",
+				"initial_position": 227,
+				"length": 2,
+				"value": "00"
+			},
+			{
+				"code": "SEGP40",
+				"description": "Nº do Contrato da Operação de Créd.",
+				"initial_position": 229,
+				"length": 10,
+				"value": "0000000000"
+			},
+			{
+				"code": "SEGP41",
+				"description": "Uso Exclusivo FEBRABAN/CNAB",
+				"initial_position": 239,
+				"length": 1,
+				"value": ""
+			}
+		],
+		"Line: 4 - SEGQ": [
+			{
+				"code": "SEGQ0",
+				"description": "Código do Banco na Compensação",
+				"initial_position": 0,
+				"length": 3,
+				"value": "001"
+			},
+			{
+				"code": "SEGQ1",
+				"description": "Lote de Serviço",
+				"initial_position": 3,
+				"length": 4,
+				"value": "0001"
+			},
+			{
+				"code": "SEGQ2",
+				"description": "Tipo de Registro",
+				"initial_position": 7,
+				"length": 1,
+				"value": "3"
+			},
+			{
+				"code": "SEGQ3",
+				"description": "Nº Sequencial do Registro no Lote",
+				"initial_position": 8,
+				"length": 5,
+				"value": "00002"
+			},
+			{
+				"code": "SEGQ4",
+				"description": "Cód. Segmento do Registro Detalhe",
+				"initial_position": 13,
+				"length": 1,
+				"value": "Q"
+			},
+			{
+				"code": "SEGQ5",
+				"description": "Uso Exclusivo FEBRABAN/CNAB",
+				"initial_position": 14,
+				"length": 1,
+				"value": ""
+			},
+			{
+				"code": "SEGQ6",
+				"description": "Código de Movimento Remessa",
+				"initial_position": 15,
+				"length": 2,
+				"value": "01"
+			},
+			{
+				"code": "SEGQ7",
+				"description": "Tipo de Inscrição",
+				"initial_position": 17,
+				"length": 1,
+				"value": "2"
+			},
+			{
+				"code": "SEGQ8",
+				"description": "Número de Inscrição",
+				"initial_position": 18,
+				"length": 15,
+				"value": "084438011000148"
+			},
+			{
+				"code": "SEGQ9",
+				"description": "Nome",
+				"initial_position": 33,
+				"length": 40,
+				"value": "PAYER NAME EMPRESA TECNOLOGIA SA UNIDATTT"
+			},
+			{
+				"code": "SEGQ10",
+				"description": "Endereço",
+				"initial_position": 73,
+				"length": 40,
+				"value": "PAYER ADDRESS RUA FORMOSA 145 ESQ R T"
+			},
+			{
+				"code": "SEGQ11",
+				"description": "Bairro",
+				"initial_position": 113,
+				"length": 15,
+				"value": "PAYER NEIGHB JP"
+			},
+			{
+				"code": "SEGQ12",
+				"description": "CEP",
+				"initial_position": 128,
+				"length": 5,
+				"value": "10100"
+			},
+			{
+				"code": "SEGQ13",
+				"description": "Sufixo do CEP",
+				"initial_position": 133,
+				"length": 3,
+				"value": "123"
+			},
+			{
+				"code": "SEGQ14",
+				"description": "Cidade",
+				"initial_position": 136,
+				"length": 15,
+				"value": "PAY CIT S PAULO"
+			},
+			{
+				"code": "SEGQ15",
+				"description": "Unidade da Federação",
+				"initial_position": 151,
+				"length": 2,
+				"value": "SP"
+			},
+			{
+				"code": "SEGQ16",
+				"description": "Tipo de Inscrição",
+				"initial_position": 153,
+				"length": 1,
+				"value": "0"
+			},
+			{
+				"code": "SEGQ17",
+				"description": "Número de Inscrição",
+				"initial_position": 154,
+				"length": 15,
+				"value": "000000000000000"
+			},
+			{
+				"code": "SEGQ18",
+				"description": "Nome do Sacador/Avalista",
+				"initial_position": 169,
+				"length": 40,
+				"value": ""
+			},
+			{
+				"code": "SEGQ19",
+				"description": "Cód. Bco. Corresp. na Compensação",
+				"initial_position": 209,
+				"length": 3,
+				"value": "000"
+			},
+			{
+				"code": "SEGQ20",
+				"description": "Nosso Nº no Banco Correspondente",
+				"initial_position": 212,
+				"length": 20,
+				"value": ""
+			},
+			{
+				"code": "SEGQ21",
+				"description": "Uso Exclusivo FEBRABAN/CNAB",
+				"initial_position": 232,
+				"length": 8,
+				"value": ""
+			}
+		],
+		"Line: 5 - TLOT": [
+			{
+				"code": "TLOT0",
+				"description": "Código do Banco na Compensação",
+				"initial_position": 0,
+				"length": 3,
+				"value": "001"
+			},
+			{
+				"code": "TLOT1",
+				"description": "Lote de Serviço",
+				"initial_position": 3,
+				"length": 4,
+				"value": "0001"
+			},
+			{
+				"code": "TLOT2",
+				"description": "Tipo de Registro",
+				"initial_position": 7,
+				"length": 1,
+				"value": "5"
+			},
+			{
+				"code": "TLOT3",
+				"description": "Uso Exclusivo FEBRABAN/CNAB",
+				"initial_position": 8,
+				"length": 9,
+				"value": ""
+			},
+			{
+				"code": "TLOT4",
+				"description": "Quantidade de Registros do Lote",
+				"initial_position": 17,
+				"length": 6,
+				"value": "000004"
+			},
+			{
+				"code": "TLOT5",
+				"description": "Uso Exclusivo FEBRABAN/CNAB",
+				"initial_position": 23,
+				"length": 217,
+				"value": "00000100123456789012312000000000000000000000000000000000000000000000000000000000000000000000"
+			}
+		],
+		"Line: 6 - TARQ": [
+			{
+				"code": "TARQ0",
+				"description": "Código do Banco na Compensação",
+				"initial_position": 0,
+				"length": 3,
+				"value": "001"
+			},
+			{
+				"code": "TARQ1",
+				"description": "Lote de Serviço",
+				"initial_position": 3,
+				"length": 4,
+				"value": "9999"
+			},
+			{
+				"code": "TARQ2",
+				"description": "Tipo de Registro",
+				"initial_position": 7,
+				"length": 1,
+				"value": "9"
+			},
+			{
+				"code": "TARQ3",
+				"description": "Uso Exclusivo FEBRABAN/CNAB",
+				"initial_position": 8,
+				"length": 9,
+				"value": ""
+			},
+			{
+				"code": "TARQ4",
+				"description": "Quantidade de Lotes do Arquivo",
+				"initial_position": 17,
+				"length": 6,
+				"value": "000001"
+			},
+			{
+				"code": "TARQ5",
+				"description": "Quantidade de Registros do Arquivo",
+				"initial_position": 23,
+				"length": 6,
+				"value": "000006"
+			},
+			{
+				"code": "TARQ6",
+				"description": "Qtde de Contas p/ Conc. (Lotes)",
+				"initial_position": 29,
+				"length": 6,
+				"value": "000000"
+			},
+			{
+				"code": "TARQ7",
+				"description": "Uso Exclusivo FEBRABAN/CNAB",
+				"initial_position": 35,
+				"length": 205,
+				"value": ""
+			}
+		],
+		"Totals": {
+			"total lines": 5,
+			"total lots": [
+				{
+					"Lot": 1,
+					"Details": 2
+				}
+			]
+		}
+	},
+
+	"results_CNAB_COB_SANTANDER_240_REM_H7815_VLayouts": {
+		"Line: 1 - HARQ": [
+			{
+				"code": "HARQ0",
+				"description": "Código do Banco na compensação",
+				"initial_position": 0,
+				"length": 3,
+				"value": "033"
+			},
+			{
+				"code": "HARQ1",
+				"description": "Lote de serviço",
+				"initial_position": 3,
+				"length": 4,
+				"value": "0000"
+			},
+			{
+				"code": "HARQ2",
+				"description": "Tipo de registro",
+				"initial_position": 7,
+				"length": 1,
+				"value": "0"
+			},
+			{
+				"code": "HARQ3",
+				"description": "Reservado (uso Banco)",
+				"initial_position": 8,
+				"length": 8,
+				"value": ""
+			},
+			{
+				"code": "HARQ4",
+				"description": "Tipo de inscrição da empresa",
+				"initial_position": 16,
+				"length": 1,
+				"value": "2"
+			},
+			{
+				"code": "HARQ5",
+				"description": "Nº de inscrição da empresa",
+				"initial_position": 17,
+				"length": 15,
+				"value": "044802644000179"
+			},
+			{
+				"code": "HARQ6",
+				"description": "Código de Transmissão",
+				"initial_position": 32,
+				"length": 15,
+				"value": "000000357357969"
+			},
+			{
+				"code": "HARQ7",
+				"description": "Reservado (uso Banco)",
+				"initial_position": 47,
+				"length": 25,
+				"value": ""
+			},
+			{
+				"code": "HARQ8",
+				"description": "Nome da empresa",
+				"initial_position": 72,
+				"length": 30,
+				"value": "EMPRESA ESB EDI AUTOMACAO LTDA"
+			},
+			{
+				"code": "HARQ9",
+				"description": "Nome do Banco",
+				"initial_position": 102,
+				"length": 30,
+				"value": "SANTANDER"
+			},
+			{
+				"code": "HARQ10",
+				"description": "Reservado (uso Banco)",
+				"initial_position": 132,
+				"length": 10,
+				"value": ""
+			},
+			{
+				"code": "HARQ11",
+				"description": "Código remessa",
+				"initial_position": 142,
+				"length": 1,
+				"value": "1"
+			},
+			{
+				"code": "HARQ12",
+				"description": "Data de geração do arquivo",
+				"initial_position": 143,
+				"length": 8,
+				"value": "DDMMAAAA"
+			},
+			{
+				"code": "HARQ13",
+				"description": "Reservado (uso Banco)",
+				"initial_position": 151,
+				"length": 6,
+				"value": ""
+			},
+			{
+				"code": "HARQ14",
+				"description": "Nº seqüencial do arquivo",
+				"initial_position": 157,
+				"length": 6,
+				"value": "000681"
+			},
+			{
+				"code": "HARQ15",
+				"description": "Nº da versão do layout do arquivo",
+				"initial_position": 163,
+				"length": 3,
+				"value": "040"
+			},
+			{
+				"code": "HARQ16",
+				"description": "Reservado (uso Banco)",
+				"initial_position": 166,
+				"length": 74,
+				"value": ""
+			}
+		],
+		"Line: 2 - HLOT": [
+			{
+				"code": "HLOT0",
+				"description": "Código do Banco na compensação",
+				"initial_position": 0,
+				"length": 3,
+				"value": "033"
+			},
+			{
+				"code": "HLOT1",
+				"description": "Número do lote remessa",
+				"initial_position": 3,
+				"length": 4,
+				"value": "0001"
+			},
+			{
+				"code": "HLOT2",
+				"description": "Tipo de registro",
+				"initial_position": 7,
+				"length": 1,
+				"value": "1"
+			},
+			{
+				"code": "HLOT3",
+				"description": "Tipo de operação",
+				"initial_position": 8,
+				"length": 1,
+				"value": "R"
+			},
+			{
+				"code": "HLOT4",
+				"description": "Tipo de serviço",
+				"initial_position": 9,
+				"length": 2,
+				"value": "01"
+			},
+			{
+				"code": "HLOT5",
+				"description": "Reservado (uso Banco)",
+				"initial_position": 11,
+				"length": 2,
+				"value": ""
+			},
+			{
+				"code": "HLOT6",
+				"description": "Nº da versão do layout do lote",
+				"initial_position": 13,
+				"length": 3,
+				"value": "030"
+			},
+			{
+				"code": "HLOT7",
+				"description": "Reservado (uso Banco)",
+				"initial_position": 16,
+				"length": 1,
+				"value": ""
+			},
+			{
+				"code": "HLOT8",
+				"description": "Tipo de inscrição da empresa",
+				"initial_position": 17,
+				"length": 1,
+				"value": "2"
+			},
+			{
+				"code": "HLOT9",
+				"description": "Nº de inscrição da empresa",
+				"initial_position": 18,
+				"length": 15,
+				"value": "044802644000179"
+			},
+			{
+				"code": "HLOT10",
+				"description": "Reservado (uso Banco)",
+				"initial_position": 33,
+				"length": 20,
+				"value": ""
+			},
+			{
+				"code": "HLOT11",
+				"description": "Código de Transmissão",
+				"initial_position": 53,
+				"length": 15,
+				"value": "000000357357969"
+			},
+			{
+				"code": "HLOT12",
+				"description": "Reservado uso Banco",
+				"initial_position": 68,
+				"length": 5,
+				"value": ""
+			},
+			{
+				"code": "HLOT13",
+				"description": "Nome do Beneficiário",
+				"initial_position": 73,
+				"length": 30,
+				"value": "EMPRESA ESB EDI AUTOMACAO LTDA"
+			},
+			{
+				"code": "HLOT14",
+				"description": "Mensagem 1",
+				"initial_position": 103,
+				"length": 40,
+				"value": ""
+			},
+			{
+				"code": "HLOT15",
+				"description": "Mensagem 2",
+				"initial_position": 143,
+				"length": 40,
+				"value": ""
+			},
+			{
+				"code": "HLOT16",
+				"description": "Número remessa/retorno",
+				"initial_position": 183,
+				"length": 8,
+				"value": "00000000"
+			},
+			{
+				"code": "HLOT17",
+				"description": "Data da gravação remessa/retorno",
+				"initial_position": 191,
+				"length": 8,
+				"value": "DDMMAAAA"
+			},
+			{
+				"code": "HLOT18",
+				"description": "Reservado (uso Banco)",
+				"initial_position": 199,
+				"length": 41,
+				"value": ""
+			}
+		],
+		"Line: 3 - SEGP": [
+			{
+				"code": "SEGP0",
+				"description": "Código do Banco na compensação",
+				"initial_position": 0,
+				"length": 3,
+				"value": "033"
+			},
+			{
+				"code": "SEGP1",
+				"description": "Número do lote remessa",
+				"initial_position": 3,
+				"length": 4,
+				"value": "0001"
+			},
+			{
+				"code": "SEGP2",
+				"description": "Tipo de registro",
+				"initial_position": 7,
+				"length": 1,
+				"value": "3"
+			},
+			{
+				"code": "SEGP3",
+				"description": "Nº seqüencial do registro de lote",
+				"initial_position": 8,
+				"length": 5,
+				"value": "00001"
+			},
+			{
+				"code": "SEGP4",
+				"description": "Cód. Segmento do registro detalhe",
+				"initial_position": 13,
+				"length": 1,
+				"value": "P"
+			},
+			{
+				"code": "SEGP5",
+				"description": "Reservado (uso Banco)",
+				"initial_position": 14,
+				"length": 1,
+				"value": ""
+			},
+			{
+				"code": "SEGP6",
+				"description": "Código de movimento remessa",
+				"initial_position": 15,
+				"length": 2,
+				"value": "01"
+			},
+			{
+				"code": "SEGP7",
+				"description": "Agência do Destinatária",
+				"initial_position": 17,
+				"length": 4,
+				"value": "9696"
+			},
+			{
+				"code": "SEGP8",
+				"description": "Dígito da Ag do Destinatária",
+				"initial_position": 21,
+				"length": 1,
+				"value": "1"
+			},
+			{
+				"code": "SEGP9",
+				"description": "Número da conta corrente",
+				"initial_position": 22,
+				"length": 9,
+				"value": "000357357"
+			},
+			{
+				"code": "SEGP10",
+				"description": "Dígito verificador da conta",
+				"initial_position": 31,
+				"length": 1,
+				"value": "1"
+			},
+			{
+				"code": "SEGP11",
+				"description": "Conta cobrança Destinatária FIDC",
+				"initial_position": 32,
+				"length": 9,
+				"value": "000357357"
+			},
+			{
+				"code": "SEGP12",
+				"description": "Dígito da conta cobrança Destinatária FIDC",
+				"initial_position": 41,
+				"length": 1,
+				"value": "1"
+			},
+			{
+				"code": "SEGP13",
+				"description": "Reservado (uso Banco)",
+				"initial_position": 42,
+				"length": 2,
+				"value": ""
+			},
+			{
+				"code": "SEGP14",
+				"description": "Identificação do boleto no Banco",
+				"initial_position": 44,
+				"length": 13,
+				"value": "9876543210123"
+			},
+			{
+				"code": "SEGP15",
+				"description": "Tipo de cobrança",
+				"initial_position": 57,
+				"length": 1,
+				"value": "1"
+			},
+			{
+				"code": "SEGP16",
+				"description": "Forma de Cadastramento",
+				"initial_position": 58,
+				"length": 1,
+				"value": "1"
+			},
+			{
+				"code": "SEGP17",
+				"description": "Tipo de documento",
+				"initial_position": 59,
+				"length": 1,
+				"value": "1"
+			},
+			{
+				"code": "SEGP18",
+				"description": "Reservado (uso Banco)",
+				"initial_position": 60,
+				"length": 1,
+				"value": ""
+			},
+			{
+				"code": "SEGP19",
+				"description": "Reservado (uso Banco)",
+				"initial_position": 61,
+				"length": 1,
+				"value": ""
+			},
+			{
+				"code": "SEGP20",
+				"description": "Nº do documento",
+				"initial_position": 62,
+				"length": 15,
+				"value": "987654321012345"
+			},
+			{
+				"code": "SEGP21",
+				"description": "Data de vencimento do boleto",
+				"initial_position": 77,
+				"length": 8,
+				"value": "DDMMAAAA"
+			},
+			{
+				"code": "SEGP22",
+				"description": "Valor nominal do boleto",
+				"initial_position": 85,
+				"length": 15,
+				"value": "123456789012312"
+			},
+			{
+				"code": "SEGP23",
+				"description": "Agência encarregada da cobrança FIDC",
+				"initial_position": 100,
+				"length": 4,
+				"value": "9871"
+			},
+			{
+				"code": "SEGP24",
+				"description": "Dígito da Agência do Beneficiário FIDC",
+				"initial_position": 104,
+				"length": 1,
+				"value": "1"
+			},
+			{
+				"code": "SEGP25",
+				"description": "Reservado (uso Banco)",
+				"initial_position": 105,
+				"length": 1,
+				"value": ""
+			},
+			{
+				"code": "SEGP26",
+				"description": "Espécie do boleto",
+				"initial_position": 106,
+				"length": 2,
+				"value": "12"
+			},
+			{
+				"code": "SEGP27",
+				"description": "Identif. de boleto Aceito/Não Aceito",
+				"initial_position": 108,
+				"length": 1,
+				"value": "N"
+			},
+			{
+				"code": "SEGP28",
+				"description": "Data da emissão do boleto",
+				"initial_position": 109,
+				"length": 8,
+				"value": "DDMMAAAA"
+			},
+			{
+				"code": "SEGP29",
+				"description": "Código de juros de mora",
+				"initial_position": 117,
+				"length": 1,
+				"value": "3"
+			},
+			{
+				"code": "SEGP30",
+				"description": "Data de juros de mora",
+				"initial_position": 118,
+				"length": 8,
+				"value": "00000000"
+			},
+			{
+				"code": "SEGP31",
+				"description": "Valor da mora/dia ou Taxa mensal",
+				"initial_position": 126,
+				"length": 15,
+				"value": "000000000000000"
+			},
+			{
+				"code": "SEGP32",
+				"description": "Código do desconto 1",
+				"initial_position": 141,
+				"length": 1,
+				"value": "0"
+			},
+			{
+				"code": "SEGP33",
+				"description": "Data de desconto 1",
+				"initial_position": 142,
+				"length": 8,
+				"value": "00000000"
+			},
+			{
+				"code": "SEGP34",
+				"description": "Valor ou Percentual do desconto concedido",
+				"initial_position": 150,
+				"length": 15,
+				"value": "000000000000000"
+			},
+			{
+				"code": "SEGP35",
+				"description": "Percentual do IOF a ser recolhido",
+				"initial_position": 165,
+				"length": 15,
+				"value": "000000000000000"
+			},
+			{
+				"code": "SEGP36",
+				"description": "Valor do abatimento",
+				"initial_position": 180,
+				"length": 15,
+				"value": "000000000000000"
+			},
+			{
+				"code": "SEGP37",
+				"description": "Identificação do boleto na empresa",
+				"initial_position": 195,
+				"length": 25,
+				"value": "9876543210987654321012345"
+			},
+			{
+				"code": "SEGP38",
+				"description": "Código para protesto",
+				"initial_position": 220,
+				"length": 1,
+				"value": "0"
+			},
+			{
+				"code": "SEGP39",
+				"description": "Número de dias para protesto",
+				"initial_position": 221,
+				"length": 2,
+				"value": "00"
+			},
+			{
+				"code": "SEGP40",
+				"description": "Código para Baixa/Devolução",
+				"initial_position": 223,
+				"length": 1,
+				"value": "2"
+			},
+			{
+				"code": "SEGP41",
+				"description": "Reservado (uso Banco)",
+				"initial_position": 224,
+				"length": 1,
+				"value": "0"
+			},
+			{
+				"code": "SEGP42",
+				"description": "Número de dias para Baixa/Devolução",
+				"initial_position": 225,
+				"length": 2,
+				"value": "00"
+			},
+			{
+				"code": "SEGP43",
+				"description": "Código da moeda",
+				"initial_position": 227,
+				"length": 2,
+				"value": "00"
+			},
+			{
+				"code": "SEGP44",
+				"description": "Reservado (uso Banco)",
+				"initial_position": 229,
+				"length": 11,
+				"value": ""
+			}
+		],
+		"Line: 4 - SEGQ": [
+			{
+				"code": "SEGQ0",
+				"description": "Código do Banco na compensação",
+				"initial_position": 0,
+				"length": 3,
+				"value": "033"
+			},
+			{
+				"code": "SEGQ1",
+				"description": "Número do lote remessa",
+				"initial_position": 3,
+				"length": 4,
+				"value": "0001"
+			},
+			{
+				"code": "SEGQ2",
+				"description": "Tipo de registro",
+				"initial_position": 7,
+				"length": 1,
+				"value": "3"
+			},
+			{
+				"code": "SEGQ3",
+				"description": "Nº seqüencial do registro no lote",
+				"initial_position": 8,
+				"length": 5,
+				"value": "00002"
+			},
+			{
+				"code": "SEGQ4",
+				"description": "Cód. segmento do registro detalhe",
+				"initial_position": 13,
+				"length": 1,
+				"value": "Q"
+			},
+			{
+				"code": "SEGQ5",
+				"description": "Reservado (uso Banco)",
+				"initial_position": 14,
+				"length": 1,
+				"value": ""
+			},
+			{
+				"code": "SEGQ6",
+				"description": "Código de movimento remessa",
+				"initial_position": 15,
+				"length": 2,
+				"value": "01"
+			},
+			{
+				"code": "SEGQ7",
+				"description": "Tipo de inscrição do Pagador",
+				"initial_position": 17,
+				"length": 1,
+				"value": "2"
+			},
+			{
+				"code": "SEGQ8",
+				"description": "Número de inscrição do Pagador",
+				"initial_position": 18,
+				"length": 15,
+				"value": "084438011000148"
+			},
+			{
+				"code": "SEGQ9",
+				"description": "Nome Pagador",
+				"initial_position": 33,
+				"length": 40,
+				"value": "PAYER NAME EMPRESA TECNOLOGIA SA UNIDATTT"
+			},
+			{
+				"code": "SEGQ10",
+				"description": "Endereço Pagador",
+				"initial_position": 73,
+				"length": 40,
+				"value": "PAYER ADDRESS RUA FORMOSA 145 ESQ R T"
+			},
+			{
+				"code": "SEGQ11",
+				"description": "Bairro Pagador",
+				"initial_position": 113,
+				"length": 15,
+				"value": "PAYER NEIGHB JP"
+			},
+			{
+				"code": "SEGQ12",
+				"description": "Cep do Pagador",
+				"initial_position": 128,
+				"length": 5,
+				"value": "10100"
+			},
+			{
+				"code": "SEGQ13",
+				"description": "Sufixo do Cep do Pagador",
+				"initial_position": 133,
+				"length": 3,
+				"value": "123"
+			},
+			{
+				"code": "SEGQ14",
+				"description": "Cidade do Pagador",
+				"initial_position": 136,
+				"length": 15,
+				"value": "PAY CIT S PAULO"
+			},
+			{
+				"code": "SEGQ15",
+				"description": "Unidade da Federação do Pagador",
+				"initial_position": 151,
+				"length": 2,
+				"value": "SP"
+			},
+			{
+				"code": "SEGQ16",
+				"description": "Tipo de inscrição Beneficiário Final",
+				"initial_position": 153,
+				"length": 1,
+				"value": "0"
+			},
+			{
+				"code": "SEGQ17",
+				"description": "Nº de inscrição Beneficiário Final",
+				"initial_position": 154,
+				"length": 15,
+				"value": "000000000000000"
+			},
+			{
+				"code": "SEGQ18",
+				"description": "Nome do Beneficiário Final",
+				"initial_position": 169,
+				"length": 40,
+				"value": ""
+			},
+			{
+				"code": "SEGQ19",
+				"description": "Reservado (uso Banco)",
+				"initial_position": 209,
+				"length": 3,
+				"value": "000"
+			},
+			{
+				"code": "SEGQ20",
+				"description": "Reservado (uso Banco)",
+				"initial_position": 212,
+				"length": 3,
+				"value": "000"
+			},
+			{
+				"code": "SEGQ21",
+				"description": "Reservado (uso Banco)",
+				"initial_position": 215,
+				"length": 3,
+				"value": "000"
+			},
+			{
+				"code": "SEGQ22",
+				"description": "Reservado (uso Banco)",
+				"initial_position": 218,
+				"length": 3,
+				"value": "000"
+			},
+			{
+				"code": "SEGQ23",
+				"description": "Reservado (uso Banco)",
+				"initial_position": 221,
+				"length": 19,
+				"value": ""
+			}
+		],
+		"Line: 5 - TLOT": [
+			{
+				"code": "TLOT0",
+				"description": "Código do Banco na compensação",
+				"initial_position": 0,
+				"length": 3,
+				"value": "033"
+			},
+			{
+				"code": "TLOT1",
+				"description": "Número do lote remessa",
+				"initial_position": 3,
+				"length": 4,
+				"value": "0001"
+			},
+			{
+				"code": "TLOT2",
+				"description": "Tipo de registro",
+				"initial_position": 7,
+				"length": 1,
+				"value": "5"
+			},
+			{
+				"code": "TLOT3",
+				"description": "Reservado (uso Banco)",
+				"initial_position": 8,
+				"length": 9,
+				"value": ""
+			},
+			{
+				"code": "TLOT4",
+				"description": "Quantidade de registros do lote",
+				"initial_position": 17,
+				"length": 6,
+				"value": "000004"
+			},
+			{
+				"code": "TLOT5",
+				"description": "Reservado (uso Banco)",
+				"initial_position": 23,
+				"length": 217,
+				"value": ""
+			}
+		],
+		"Line: 6 - TARQ": [
+			{
+				"code": "TARQ0",
+				"description": "Código do Banco na compensação",
+				"initial_position": 0,
+				"length": 3,
+				"value": "033"
+			},
+			{
+				"code": "TARQ1",
+				"description": "Número do lote remessa",
+				"initial_position": 3,
+				"length": 4,
+				"value": "9999"
+			},
+			{
+				"code": "TARQ2",
+				"description": "Tipo de registro",
+				"initial_position": 7,
+				"length": 1,
+				"value": "9"
+			},
+			{
+				"code": "TARQ3",
+				"description": "Reservado (uso Banco)",
+				"initial_position": 8,
+				"length": 9,
+				"value": ""
+			},
+			{
+				"code": "TARQ4",
+				"description": "Quantidade de lotes do arquivo",
+				"initial_position": 17,
+				"length": 6,
+				"value": "000001"
+			},
+			{
+				"code": "TARQ5",
+				"description": "Quantidade de registros do arquivo",
+				"initial_position": 23,
+				"length": 6,
+				"value": "000006"
+			},
+			{
+				"code": "TARQ6",
+				"description": "Reservado (uso Banco)",
+				"initial_position": 29,
+				"length": 211,
+				"value": ""
+			}
+		],
+		"Totals": {
+			"total lines": 5,
+			"total lots": [
+				{
+					"Lot": 1,
+					"Details": 2
+				}
+			]
+		}
+	},
+
+	"results_CNAB_COB_SANTANDER_240_REM_FEB_VLayouts": {
+		"Line: 1 - HARQ": [
+			{
+				"code": "HARQ0",
+				"description": "Código do Banco na Compensação",
+				"initial_position": 0,
+				"length": 3,
+				"value": "033"
+			},
+			{
+				"code": "HARQ1",
+				"description": "Lote de Serviço",
+				"initial_position": 3,
+				"length": 4,
+				"value": "0000"
+			},
+			{
+				"code": "HARQ2",
+				"description": "Tipo de Registro",
+				"initial_position": 7,
+				"length": 1,
+				"value": "0"
+			},
+			{
+				"code": "HARQ3",
+				"description": "Uso Exclusivo FEBRABAN / CNAB",
+				"initial_position": 8,
+				"length": 9,
+				"value": ""
+			},
+			{
+				"code": "HARQ4",
+				"description": "Tipo de Inscrição da Empresa",
+				"initial_position": 17,
+				"length": 1,
+				"value": "2"
+			},
+			{
+				"code": "HARQ5",
+				"description": "Número de Inscrição da Empresa",
+				"initial_position": 18,
+				"length": 14,
+				"value": "44802644000179"
+			},
+			{
+				"code": "HARQ6",
+				"description": "Código do Convênio no Banco",
+				"initial_position": 32,
+				"length": 20,
+				"value": "00334568000000003345"
+			},
+			{
+				"code": "HARQ7",
+				"description": "Agência Mantenedora da Conta",
+				"initial_position": 52,
+				"length": 5,
+				"value": "04568"
+			},
+			{
+				"code": "HARQ8",
+				"description": "Dígito Verificador da Agência",
+				"initial_position": 57,
+				"length": 1,
+				"value": "1"
+			},
+			{
+				"code": "HARQ9",
+				"description": "Número da Conta Corrente",
+				"initial_position": 58,
+				"length": 12,
+				"value": "000000005134"
+			},
+			{
+				"code": "HARQ10",
+				"description": "Dígito Verificador da Conta",
+				"initial_position": 70,
+				"length": 1,
+				"value": "1"
+			},
+			{
+				"code": "HARQ11",
+				"description": "Dígito Verificador da Ag/Conta",
+				"initial_position": 71,
+				"length": 1,
+				"value": ""
+			},
+			{
+				"code": "HARQ12",
+				"description": "Nome da Empresa",
+				"initial_position": 72,
+				"length": 30,
+				"value": "EMPRESA ESB EDI AUTOMACAO LTDA"
+			},
+			{
+				"code": "HARQ13",
+				"description": "Nome do Banco",
+				"initial_position": 102,
+				"length": 30,
+				"value": "SANTANDER"
+			},
+			{
+				"code": "HARQ14",
+				"description": "Uso Exclusivo FEBRABAN / CNAB",
+				"initial_position": 132,
+				"length": 10,
+				"value": ""
+			},
+			{
+				"code": "HARQ15",
+				"description": "Código Remessa / Retorno",
+				"initial_position": 142,
+				"length": 1,
+				"value": "1"
+			},
+			{
+				"code": "HARQ16",
+				"description": "Data de Geração do Arquivo",
+				"initial_position": 143,
+				"length": 8,
+				"value": "DDMMAAAA"
+			},
+			{
+				"code": "HARQ17",
+				"description": "Hora de Geração do Arquivo",
+				"initial_position": 151,
+				"length": 6,
+				"value": "HHMMSS"
+			},
+			{
+				"code": "HARQ18",
+				"description": "Número Seqüencial do Arquivo",
+				"initial_position": 157,
+				"length": 6,
+				"value": "000025"
+			},
+			{
+				"code": "HARQ19",
+				"description": "Nº da Versão do Layout do Arquivo",
+				"initial_position": 163,
+				"length": 3,
+				"value": "030"
+			},
+			{
+				"code": "HARQ20",
+				"description": "Densidade de Gravação do Arquivo",
+				"initial_position": 166,
+				"length": 5,
+				"value": "00000"
+			},
+			{
+				"code": "HARQ21",
+				"description": "Para Uso Reservado do Banco",
+				"initial_position": 171,
+				"length": 20,
+				"value": ""
+			},
+			{
+				"code": "HARQ22",
+				"description": "Para Uso Reservado da Empresa",
+				"initial_position": 191,
+				"length": 20,
+				"value": ""
+			},
+			{
+				"code": "HARQ23",
+				"description": "Uso Exclusivo FEBRABAN / CNAB",
+				"initial_position": 211,
+				"length": 29,
+				"value": ""
+			}
+		],
+		"Line: 2 - HLOT": [
+			{
+				"code": "HLOT0",
+				"description": "Código do Banco na Compensação",
+				"initial_position": 0,
+				"length": 3,
+				"value": "033"
+			},
+			{
+				"code": "HLOT1",
+				"description": "Lote de Serviço",
+				"initial_position": 3,
+				"length": 4,
+				"value": "0001"
+			},
+			{
+				"code": "HLOT2",
+				"description": "Tipo de Registro",
+				"initial_position": 7,
+				"length": 1,
+				"value": "1"
+			},
+			{
+				"code": "HLOT3",
+				"description": "Tipo de Operação",
+				"initial_position": 8,
+				"length": 1,
+				"value": "R"
+			},
+			{
+				"code": "HLOT4",
+				"description": "Tipo de Serviço",
+				"initial_position": 9,
+				"length": 2,
+				"value": "01"
+			},
+			{
+				"code": "HLOT5",
+				"description": "Uso Exclusivo FEBRABAN/CNAB",
+				"initial_position": 11,
+				"length": 2,
+				"value": ""
+			},
+			{
+				"code": "HLOT6",
+				"description": "Nº da Versão do Layout do Lote",
+				"initial_position": 13,
+				"length": 3,
+				"value": "030"
+			},
+			{
+				"code": "HLOT7",
+				"description": "Uso Exclusivo FEBRABAN/CNAB",
+				"initial_position": 16,
+				"length": 1,
+				"value": ""
+			},
+			{
+				"code": "HLOT8",
+				"description": "Tipo de Inscrição da Empresa",
+				"initial_position": 17,
+				"length": 1,
+				"value": "2"
+			},
+			{
+				"code": "HLOT9",
+				"description": "Nº de Inscrição da Empresa",
+				"initial_position": 18,
+				"length": 15,
+				"value": "044802644000179"
+			},
+			{
+				"code": "HLOT10",
+				"description": "Código do Convênio no Banco",
+				"initial_position": 33,
+				"length": 20,
+				"value": "3345"
+			},
+			{
+				"code": "HLOT11",
+				"description": "Agência Mantenedora da Conta",
+				"initial_position": 53,
+				"length": 5,
+				"value": "04568"
+			},
+			{
+				"code": "HLOT12",
+				"description": "Dígito Verificador da Conta",
+				"initial_position": 58,
+				"length": 1,
+				"value": "1"
+			},
+			{
+				"code": "HLOT13",
+				"description": "Número da Conta Corrente",
+				"initial_position": 59,
+				"length": 12,
+				"value": "000000005134"
+			},
+			{
+				"code": "HLOT14",
+				"description": "Dígito Verificador da Conta",
+				"initial_position": 71,
+				"length": 1,
+				"value": "1"
+			},
+			{
+				"code": "HLOT15",
+				"description": "Dígito Verificador da Ag/Conta",
+				"initial_position": 72,
+				"length": 1,
+				"value": ""
+			},
+			{
+				"code": "HLOT16",
+				"description": "Nome da Empresa",
+				"initial_position": 73,
+				"length": 30,
+				"value": "EMPRESA ESB EDI AUTOMACAO LTDA"
+			},
+			{
+				"code": "HLOT17",
+				"description": "Mensagem 1",
+				"initial_position": 103,
+				"length": 40,
+				"value": ""
+			},
+			{
+				"code": "HLOT18",
+				"description": "Mensagem 2",
+				"initial_position": 143,
+				"length": 40,
+				"value": ""
+			},
+			{
+				"code": "HLOT19",
+				"description": "Número Remessa/Retorno",
+				"initial_position": 183,
+				"length": 8,
+				"value": "00000000"
+			},
+			{
+				"code": "HLOT20",
+				"description": "Data de Gravação Remessa/Retorno",
+				"initial_position": 191,
+				"length": 8,
+				"value": "00000000"
+			},
+			{
+				"code": "HLOT21",
+				"description": "Data do Crédito",
+				"initial_position": 199,
+				"length": 8,
+				"value": "00000000"
+			},
+			{
+				"code": "HLOT22",
+				"description": "Uso Exclusivo FEBRABAN/CNAB",
+				"initial_position": 207,
+				"length": 33,
+				"value": ""
+			}
+		],
+		"Line: 3 - SEGP": [
+			{
+				"code": "SEGP0",
+				"description": "Código do Banco na Compensação",
+				"initial_position": 0,
+				"length": 3,
+				"value": "033"
+			},
+			{
+				"code": "SEGP1",
+				"description": "Lote de Serviço",
+				"initial_position": 3,
+				"length": 4,
+				"value": "0001"
+			},
+			{
+				"code": "SEGP2",
+				"description": "Tipo de Registro",
+				"initial_position": 7,
+				"length": 1,
+				"value": "3"
+			},
+			{
+				"code": "SEGP3",
+				"description": "Nº Sequencial do Registro no Lote",
+				"initial_position": 8,
+				"length": 5,
+				"value": "00001"
+			},
+			{
+				"code": "SEGP4",
+				"description": "Cód. Segmento do Registro Detalhe",
+				"initial_position": 13,
+				"length": 1,
+				"value": "P"
+			},
+			{
+				"code": "SEGP5",
+				"description": "Uso Exclusivo FEBRABAN/CNAB",
+				"initial_position": 14,
+				"length": 1,
+				"value": ""
+			},
+			{
+				"code": "SEGP6",
+				"description": "Código de Movimento Remessa",
+				"initial_position": 15,
+				"length": 2,
+				"value": "01"
+			},
+			{
+				"code": "SEGP7",
+				"description": "Agência Mantenedora da Conta",
+				"initial_position": 17,
+				"length": 5,
+				"value": "04568"
+			},
+			{
+				"code": "SEGP8",
+				"description": "Dígito Verificador da Agência",
+				"initial_position": 22,
+				"length": 1,
+				"value": "1"
+			},
+			{
+				"code": "SEGP9",
+				"description": "Número da Conta Corrente",
+				"initial_position": 23,
+				"length": 12,
+				"value": "000000005134"
+			},
+			{
+				"code": "SEGP10",
+				"description": "Dígito Verificador da Conta",
+				"initial_position": 35,
+				"length": 1,
+				"value": "1"
+			},
+			{
+				"code": "SEGP11",
+				"description": "Dígito Verificador da Ag/Conta",
+				"initial_position": 36,
+				"length": 1,
+				"value": ""
+			},
+			{
+				"code": "SEGP12",
+				"description": "Identificação do Título no Banco",
+				"initial_position": 37,
+				"length": 20,
+				"value": "9876543210123"
+			},
+			{
+				"code": "SEGP13",
+				"description": "Código da Carteira",
+				"initial_position": 57,
+				"length": 1,
+				"value": "1"
+			},
+			{
+				"code": "SEGP14",
+				"description": "Forma de Cadastr. do Título no Banco",
+				"initial_position": 58,
+				"length": 1,
+				"value": "1"
+			},
+			{
+				"code": "SEGP15",
+				"description": "Tipo de Documento",
+				"initial_position": 59,
+				"length": 1,
+				"value": "1"
+			},
+			{
+				"code": "SEGP16",
+				"description": "Identificação da Emissão do Bloqueto",
+				"initial_position": 60,
+				"length": 1,
+				"value": "1"
+			},
+			{
+				"code": "SEGP17",
+				"description": "Identificação da Distribuição",
+				"initial_position": 61,
+				"length": 1,
+				"value": "1"
+			},
+			{
+				"code": "SEGP18",
+				"description": "Número do Documento de Cobrança",
+				"initial_position": 62,
+				"length": 15,
+				"value": "987654321012345"
+			},
+			{
+				"code": "SEGP19",
+				"description": "Data de Vencimento do Título",
+				"initial_position": 77,
+				"length": 8,
+				"value": "DDMMAAAA"
+			},
+			{
+				"code": "SEGP20",
+				"description": "Valor Nominal do Título",
+				"initial_position": 85,
+				"length": 13,
+				"value": "1234567890123"
+			},
+			{
+				"code": "SEGP21",
+				"description": "Agência Encarregada da Cobrança",
+				"initial_position": 100,
+				"length": 5,
+				"value": "98715"
+			},
+			{
+				"code": "SEGP22",
+				"description": "Dígito Verificador da Agência",
+				"initial_position": 105,
+				"length": 1,
+				"value": ""
+			},
+			{
+				"code": "SEGP23",
+				"description": "Espécie do Título",
+				"initial_position": 106,
+				"length": 2,
+				"value": "12"
+			},
+			{
+				"code": "SEGP24",
+				"description": "Identific. De Título",
+				"initial_position": 108,
+				"length": 1,
+				"value": "N"
+			},
+			{
+				"code": "SEGP25",
+				"description": "Data da Emissão do Título",
+				"initial_position": 109,
+				"length": 8,
+				"value": "DDMMAAAA"
+			},
+			{
+				"code": "SEGP26",
+				"description": "Código do Juros de Mora",
+				"initial_position": 117,
+				"length": 1,
+				"value": "3"
+			},
+			{
+				"code": "SEGP27",
+				"description": "Data do Juros de Mora",
+				"initial_position": 118,
+				"length": 8,
+				"value": "00000000"
+			},
+			{
+				"code": "SEGP28",
+				"description": "Juros de Mora por Dia/Taxa",
+				"initial_position": 126,
+				"length": 13,
+				"value": "0000000000000"
+			},
+			{
+				"code": "SEGP29",
+				"description": "Código do Desconto 1",
+				"initial_position": 141,
+				"length": 1,
+				"value": "0"
+			},
+			{
+				"code": "SEGP30",
+				"description": "Data do Desconto 1",
+				"initial_position": 142,
+				"length": 8,
+				"value": "00000000"
+			},
+			{
+				"code": "SEGP31",
+				"description": "Valor/Percentual a ser Concedido",
+				"initial_position": 150,
+				"length": 13,
+				"value": "0000000000000"
+			},
+			{
+				"code": "SEGP32",
+				"description": "Valor do IOF a ser Recolhido",
+				"initial_position": 165,
+				"length": 13,
+				"value": "0000000000000"
+			},
+			{
+				"code": "SEGP33",
+				"description": "Valor do Abatimento",
+				"initial_position": 180,
+				"length": 13,
+				"value": "0000000000000"
+			},
+			{
+				"code": "SEGP34",
+				"description": "Identificação do Título na Empresa",
+				"initial_position": 195,
+				"length": 25,
+				"value": "9876543210987654321012345"
+			},
+			{
+				"code": "SEGP35",
+				"description": "Código para Protesto",
+				"initial_position": 220,
+				"length": 1,
+				"value": "0"
+			},
+			{
+				"code": "SEGP36",
+				"description": "Número de Dias para Protesto",
+				"initial_position": 221,
+				"length": 2,
+				"value": "00"
+			},
+			{
+				"code": "SEGP37",
+				"description": "Código para Baixa/Devolução",
+				"initial_position": 223,
+				"length": 1,
+				"value": "2"
+			},
+			{
+				"code": "SEGP38",
+				"description": "Número de Dias para Baixa/Devolução",
+				"initial_position": 224,
+				"length": 3,
+				"value": ""
+			},
+			{
+				"code": "SEGP39",
+				"description": "Código da Moeda",
+				"initial_position": 227,
+				"length": 2,
+				"value": "00"
+			},
+			{
+				"code": "SEGP40",
+				"description": "Nº do Contrato da Operação de Créd.",
+				"initial_position": 229,
+				"length": 10,
+				"value": "0000000000"
+			},
+			{
+				"code": "SEGP41",
+				"description": "Uso Exclusivo FEBRABAN/CNAB",
+				"initial_position": 239,
+				"length": 1,
+				"value": ""
+			}
+		],
+		"Line: 4 - SEGQ": [
+			{
+				"code": "SEGQ0",
+				"description": "Código do Banco na Compensação",
+				"initial_position": 0,
+				"length": 3,
+				"value": "033"
+			},
+			{
+				"code": "SEGQ1",
+				"description": "Lote de Serviço",
+				"initial_position": 3,
+				"length": 4,
+				"value": "0001"
+			},
+			{
+				"code": "SEGQ2",
+				"description": "Tipo de Registro",
+				"initial_position": 7,
+				"length": 1,
+				"value": "3"
+			},
+			{
+				"code": "SEGQ3",
+				"description": "Nº Sequencial do Registro no Lote",
+				"initial_position": 8,
+				"length": 5,
+				"value": "00002"
+			},
+			{
+				"code": "SEGQ4",
+				"description": "Cód. Segmento do Registro Detalhe",
+				"initial_position": 13,
+				"length": 1,
+				"value": "Q"
+			},
+			{
+				"code": "SEGQ5",
+				"description": "Uso Exclusivo FEBRABAN/CNAB",
+				"initial_position": 14,
+				"length": 1,
+				"value": ""
+			},
+			{
+				"code": "SEGQ6",
+				"description": "Código de Movimento Remessa",
+				"initial_position": 15,
+				"length": 2,
+				"value": "01"
+			},
+			{
+				"code": "SEGQ7",
+				"description": "Tipo de Inscrição",
+				"initial_position": 17,
+				"length": 1,
+				"value": "2"
+			},
+			{
+				"code": "SEGQ8",
+				"description": "Número de Inscrição",
+				"initial_position": 18,
+				"length": 15,
+				"value": "084438011000148"
+			},
+			{
+				"code": "SEGQ9",
+				"description": "Nome",
+				"initial_position": 33,
+				"length": 40,
+				"value": "PAYER NAME EMPRESA TECNOLOGIA SA UNIDATTT"
+			},
+			{
+				"code": "SEGQ10",
+				"description": "Endereço",
+				"initial_position": 73,
+				"length": 40,
+				"value": "PAYER ADDRESS RUA FORMOSA 145 ESQ R T"
+			},
+			{
+				"code": "SEGQ11",
+				"description": "Bairro",
+				"initial_position": 113,
+				"length": 15,
+				"value": "PAYER NEIGHB JP"
+			},
+			{
+				"code": "SEGQ12",
+				"description": "CEP",
+				"initial_position": 128,
+				"length": 5,
+				"value": "00000"
+			},
+			{
+				"code": "SEGQ13",
+				"description": "Sufixo do CEP",
+				"initial_position": 133,
+				"length": 3,
+				"value": "000"
+			},
+			{
+				"code": "SEGQ14",
+				"description": "Cidade",
+				"initial_position": 136,
+				"length": 15,
+				"value": "PAY CIT S PAULO"
+			},
+			{
+				"code": "SEGQ15",
+				"description": "Unidade da Federação",
+				"initial_position": 151,
+				"length": 2,
+				"value": "SP"
+			},
+			{
+				"code": "SEGQ16",
+				"description": "Tipo de Inscrição SAC/AVAL.",
+				"initial_position": 153,
+				"length": 1,
+				"value": "0"
+			},
+			{
+				"code": "SEGQ17",
+				"description": "Número de Inscrição",
+				"initial_position": 154,
+				"length": 15,
+				"value": "000000000000000"
+			},
+			{
+				"code": "SEGQ18",
+				"description": "Nome do Sacador/Avalista",
+				"initial_position": 169,
+				"length": 40,
+				"value": ""
+			},
+			{
+				"code": "SEGQ19",
+				"description": "Cód. Bco. Corresp. na Compensação",
+				"initial_position": 209,
+				"length": 3,
+				"value": "000"
+			},
+			{
+				"code": "SEGQ20",
+				"description": "Nosso Nº no Banco Correspondente",
+				"initial_position": 212,
+				"length": 20,
+				"value": ""
+			},
+			{
+				"code": "SEGQ21",
+				"description": "Uso Exclusivo FEBRABAN/CNAB",
+				"initial_position": 232,
+				"length": 8,
+				"value": ""
+			}
+		],
+		"Line: 5 - TLOT": [
+			{
+				"code": "TLOT0",
+				"description": "Código do Banco na Compensação",
+				"initial_position": 0,
+				"length": 3,
+				"value": "033"
+			},
+			{
+				"code": "TLOT1",
+				"description": "Lote de Serviço",
+				"initial_position": 3,
+				"length": 4,
+				"value": "0001"
+			},
+			{
+				"code": "TLOT2",
+				"description": "Tipo de Registro",
+				"initial_position": 7,
+				"length": 1,
+				"value": "5"
+			},
+			{
+				"code": "TLOT3",
+				"description": "Uso Exclusivo FEBRABAN/CNAB",
+				"initial_position": 8,
+				"length": 9,
+				"value": ""
+			},
+			{
+				"code": "TLOT4",
+				"description": "Quantidade de Registros no Lote",
+				"initial_position": 17,
+				"length": 6,
+				"value": "000004"
+			},
+			{
+				"code": "TLOT5",
+				"description": "Quantidade de Títulos em Cobrança",
+				"initial_position": 23,
+				"length": 6,
+				"value": "000001"
+			},
+			{
+				"code": "TLOT6",
+				"description": "Valor Total dos Títulos em Carteiras",
+				"initial_position": 29,
+				"length": 15,
+				"value": "001234567890123"
+			},
+			{
+				"code": "TLOT7",
+				"description": "Quantidade de Títulos em Cobrança",
+				"initial_position": 46,
+				"length": 6,
+				"value": "000000"
+			},
+			{
+				"code": "TLOT8",
+				"description": "Quantidade de Títulos em Cobrança",
+				"initial_position": 52,
+				"length": 15,
+				"value": "000000000000000"
+			},
+			{
+				"code": "TLOT9",
+				"description": "Quantidade de Títulos em Carteiras",
+				"initial_position": 69,
+				"length": 6,
+				"value": "000000"
+			},
+			{
+				"code": "TLOT10",
+				"description": "Quantidade de Títulos em Cobrança",
+				"initial_position": 75,
+				"length": 15,
+				"value": "000000000000000"
+			},
+			{
+				"code": "TLOT11",
+				"description": "Valor Total dos Títulos em Carteiras",
+				"initial_position": 92,
+				"length": 6,
+				"value": "000000"
+			},
+			{
+				"code": "TLOT12",
+				"description": "Número do Aviso de Lançamento",
+				"initial_position": 115,
+				"length": 15,
+				"value": ""
+			},
+			{
+				"code": "TLOT13",
+				"description": "Uso Exclusivo FEBRABAN/CNAB",
+				"initial_position": 123,
+				"length": 117,
+				"value": ""
+			}
+		],
+		"Line: 6 - TARQ": [
+			{
+				"code": "TARQ0",
+				"description": "Código do Banco na Compensação",
+				"initial_position": 0,
+				"length": 3,
+				"value": "033"
+			},
+			{
+				"code": "TARQ1",
+				"description": "Lote de Serviço",
+				"initial_position": 3,
+				"length": 4,
+				"value": "9999"
+			},
+			{
+				"code": "TARQ2",
+				"description": "Tipo de Registro",
+				"initial_position": 7,
+				"length": 1,
+				"value": "9"
+			},
+			{
+				"code": "TARQ3",
+				"description": "Uso Exclusivo FEBRABAN/CNAB",
+				"initial_position": 8,
+				"length": 9,
+				"value": ""
+			},
+			{
+				"code": "TARQ4",
+				"description": "Quantidade de Lotes do Arquivo",
+				"initial_position": 17,
+				"length": 6,
+				"value": "000001"
+			},
+			{
+				"code": "TARQ5",
+				"description": "Quantidade de Registros do Arquivo",
+				"initial_position": 23,
+				"length": 6,
+				"value": "000006"
+			},
+			{
+				"code": "TARQ6",
+				"description": "Qtde de Contas p/ Conc. (Lotes)",
+				"initial_position": 29,
+				"length": 6,
+				"value": "000000"
+			},
+			{
+				"code": "TARQ7",
+				"description": "Uso Exclusivo FEBRABAN/CNAB",
+				"initial_position": 35,
+				"length": 205,
+				"value": ""
+			}
+		],
+		"Totals": {
+			"total lines": 5,
+			"total lots": [
+				{
+					"Lot": 1,
+					"Details": 2
+				}
+			]
+		}
+	}
+}

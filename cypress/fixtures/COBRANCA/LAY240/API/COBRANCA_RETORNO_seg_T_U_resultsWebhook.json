@@ -1,0 +1,101 @@
+{
+	"results_ABERTURA_COB_BB": {
+		"bank_account": 987654321012,
+		"bank_account_identifier": "7",
+		"bank_agreement": "98765432109876543210",
+		"bank_branch": 12345,
+		"bank_branch_identifier": "5",
+		"bank_identifier": 1,
+		"name": "EMPRESA ESB EDI AUTOMACAO LTDA",
+		"registered_number": "044802644000179",
+		"type": 2
+	},
+
+	"results_INVOICE_COB_BB": {
+        "demanding_bank_branch": 98715
+	},
+
+	"results_ABERTURA_COB_SANTANDER_H7815": {
+		"bank_account": 357357,
+		"bank_account_identifier": "1",
+		"bank_agreement": "357357969",
+		"bank_branch": 9696,
+		"bank_branch_identifier": "1",
+		"bank_identifier": 33,
+		"name": "EMPRESA ESB EDI AUTOMACAO LTDA",
+		"registered_number": "044802644000179",
+		"type": 2
+	},
+
+	"results_INVOICE_COB_SANTANDER_H7815": {
+		"our_number": "9876543210123",
+        "demanding_bank_branch": 9871,
+        "billing_document_number": "987654321012345"
+	},
+
+	"results_ABERTURA_COB_SANTANDER_FEB": {
+		"bank_account": 5134,
+		"bank_account_identifier": "1",
+		"bank_agreement": "3345",
+		"bank_branch": 4568,
+		"bank_branch_identifier": "1",
+		"bank_identifier": 33,
+		"name": "EMPRESA ESB EDI AUTOMACAO LTDA",
+		"registered_number": "044802644000179",
+		"type": "2"
+	},
+
+	"results_INVOICE_COB_SANTANDER_FEB": {
+		"our_number": "12345679876543210123",
+        "demanding_bank_branch": 98715,
+        "billing_document_number": "987654321012345"
+	},
+	
+	"results_CNAB_COB_240_RET_Webhook": {
+		"id": "JMS_correlation_ID",
+		"_offset": 0,
+		"_limit": "1000",
+		"_total": 1,
+		"results": [
+			{
+				"company": {
+					"bank_account": "bank_account",
+					"bank_account_identifier": "bank_account_identifier",
+					"bank_agreement": "bank_agreement",
+					"bank_branch": "bank_branch",
+					"bank_branch_identifier": "bank_branch_identifier",
+					"bank_identifier": "bank_identifier",
+					"name": "name",
+					"registered_number": "registered_number",
+					"type": "type"
+				},
+				"invoices": [
+					{
+						"invoice": {
+							"status": {
+								"code": "02",
+								"description": "Entrada Confirmada"
+							},
+							"title_due_date": "AAAA-MM-DD",
+							"title_amount": 1234567890123.12,
+							"identifier": "9876543210987654321012345",
+							"bank_wallet_type": 1
+						},
+						"payer": {
+							"registration_type": 2,
+							"registration_number": "084438011000148",
+							"name": "PAYER NAME EMPRESA TECNOLOGIA SA UNIDATTT"
+						}
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"rel": "self",
+				"method": "GET",
+				"href": "https://openbanking-homol.EMPRESA.com.br/v1-2/invoice/JMS_correlation_ID/?_offset=0&_limit=1000"
+			}
+		]
+	}
+}
